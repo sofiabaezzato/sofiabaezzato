@@ -1,6 +1,4 @@
-<div align=”center”>
-  <img src=”https://github.com/sofiabaezzato/sofiabaezzato/assets/122732986/9cf39e6f-9e63-4db0-ba11-5ff35f4424d9.png” height="200"  />
-</div>
+
 
 <h1 align="left">Hey 👋 Sofia here!</h1>
 
@@ -10,7 +8,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning MERN stack [The Odin Project](https://www.theodinproject.com) <br>🎯 My main goal is to find my dream job as a developer in 2024<br>🌍 Based in Italy<br>🍕 In my free time I read, run and make an insane amount of pizzas</p>
+📚 I'm currently learning MERN stack [(The Odin Project)](https://www.theodinproject.com) <br>🎯 My main goal is to find my dream job as a developer in 2024<br>🍕 In my free time I read, run and make an insane amount of pizza<br>🌍 Based in Italy
 
 ###
 
