@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">I'm a wannabe full stack JavaScript developer</h3>
+<h2 align="left">I'm a wannabe full stack JavaScript developer :sparkles:</h2>
 
 ###
 
