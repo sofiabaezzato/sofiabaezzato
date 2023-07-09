@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Wannabe full stack JavaScript developer</h3>
+<h3 align="left">I'm a wannabe full stack JavaScript developer</h3>
 
 ###
 
