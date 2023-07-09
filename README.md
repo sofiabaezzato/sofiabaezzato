@@ -1,6 +1,6 @@
-
-
-<h1 align="left">Hey 👋 Sofia here!</h1>
+<div align="center">
+  <img src="banner.png" height="400" alt="my-banner"  />
+</div>
 
 ###
 
