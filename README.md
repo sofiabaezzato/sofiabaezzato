@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="banner.gif" width="800" alt="my-banner"  />
+  <img src="banner.gif" width="700" alt="my-banner"  />
 </div>
 
 ###
@@ -30,6 +30,26 @@
 
 ###
 
+<h2 align="left">My BFF are</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="40" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="adobepremierepro logo"  />
+</div>
+
+###
+
 <h2 align="left">Keep in touch</h2>
 
 ###
@@ -46,9 +66,10 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sofiabaezzato&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=onedark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sofiabaezzato&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&order=2" height="100" alt="languages graph"  />
 </div>
 
 ###
+
