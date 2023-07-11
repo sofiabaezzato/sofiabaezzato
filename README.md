@@ -8,7 +8,7 @@
 
 ###
 
-📚 I'm currently learning MERN stack ([The Odin Project](https://www.theodinproject.com)) <br>🎯 My main goal is to land my dream job as a developer in 2024<br>🛠️ I'm an aerospace engineer working as a project manager, videomaker and motion designer freelance<br>🍕 In my free time I read, run and make an insane amount of pizza<br>🌍 Based in Italy but willing to move to other European countries
+📚 I'm currently learning **MERN stack** ([The Odin Project](https://www.theodinproject.com)) <br>🎯 My main goal is to land my **dream job as a developer** in 2024<br>🛠️ I'm an aerospace engineer working as a project manager, videomaker and motion designer freelance<br>🧠 I have a **growth mindset**, thus I strongly believe that we can develop our skills and talents through hard work and patience<br>🍕 In my free time I read, run and make an insane amount of pizza<br>🌍 Based in **Italy** but willing to move to other European countries
 
 ###
 
@@ -47,6 +47,18 @@
 <img width="12" />
 <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="adobepremierepro logo" title="Premiere Pro" /></a>
 </p>
+
+###
+
+<h2 align="left">Favorite quote</h2>
+
+###
+
+<div align="center">
+  
+  > _“A well-educated mind will always have more questions than answers.”_<br>**Helen Keller**
+  
+</div>
 
 ###
 
