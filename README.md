@@ -1,6 +1,6 @@
 <h1 align="left">Hi :wave: Sofia here!</h1>
 
-<h2 align="left">I'm a wannabe full stack JavaScript developer :sparkles:</h2>
+<h2 align="left">Frontend Developer :sparkles:</h2>
 
 ###
 
@@ -19,6 +19,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
@@ -32,23 +34,17 @@
 
 ###
 
-<h2 align="left">My BFF are</h2>
+<h2 align="left">Other tools I use</h2>
 
 ###
 
-<p align="left">
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="latex logo" title="LaTex"/></a>
-<img width="12" />
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" title="Figma"/></a>
-<img width="12" />
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo" title="Trello"/></a>
-<img width="12" />
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="40" alt="aftereffects logo" title="After Effects"/></a>
-<img width="12" />
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="adobeillustrator logo" title="Illustrator"/></a>
-<img width="12" />
-<a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="40" alt="adobepremierepro logo" title="Premiere Pro" /></a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/latex/008080" height="40" alt="latex logo"  />
+</div>
 
 ###
 
