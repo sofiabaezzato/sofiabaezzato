@@ -1,8 +1,4 @@
-<div align="left">
-  <img src="banner.gif" width="700" alt="my-banner"  />
-</div>
-
-###
+<h1 align="left">Hi :wave: Sofia here!</h1>
 
 <h2 align="left">I'm a wannabe full stack JavaScript developer :sparkles:</h2>
 
