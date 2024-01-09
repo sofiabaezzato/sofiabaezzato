@@ -1,6 +1,6 @@
 <h1 align="left">Hi :wave: Sofia here!</h1>
 
-<h2 align="left">Frontend Developer :sparkles:</h2>
+<h2 align="left">Frontend enthusiast aspiring to evolve into a Full Stack Developer :sparkles:</h2>
 
 ###
 
