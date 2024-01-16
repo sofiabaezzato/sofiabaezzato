@@ -1,10 +1,12 @@
-<h1 align="left">Hi :wave: Sofia here!</h1>
-
-<h2 align="left">Frontend enthusiast aspiring to evolve into a Full Stack Developer :sparkles:</h2>
+<h1 align="left">Hi 👋 Sofia here!</h1>
 
 ###
 
-📚 I'm currently learning testing w/ Cypress <br> 🧠 I have a **growth mindset**, thus I strongly believe that we can develop our skills and talents through hard work and patience<br>🍕 In my free time I read, run and make an insane amount of pizza<br>🌍 Based in **Italy** but willing to move to other European countries
+<h3 align="left">Frontend enthusiast aspiring to evolve into a Full Stack Developer ✨</h3>
+
+###
+
+<p align="left">📚 I'm currently learning testing w/ Cypress<br>🧠 I have a growth mindset, thus I strongly believe that we can develop our skills and talents through hard work and patience<br>🍕 In my free time I read, run and make an insane amount of pizza<br>🌍 Based in Italy but willing to move to other European countries</p>
 
 ###
 
@@ -48,26 +50,21 @@
 
 ###
 
-<h2 align="left">Favorite quote</h2>
-
-###
-
-<div align="center">
-  
-  > _“A well-educated mind will always have more questions than answers.”_<br>**Helen Keller**
-  
-</div>
-
-###
-
 <h2 align="left">Keep in touch</h2>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sofia-baezzato/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sofiabaezzato&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=github_dark&hide_border=true&order=2" height="115" alt="languages graph"  />
+</div>
+
+###
 
