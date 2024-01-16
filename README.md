@@ -4,7 +4,7 @@
 
 ###
 
-📚 I'm currently learning **MERN stack** ([The Odin Project](https://www.theodinproject.com)) <br>🎯 My main goal is to land my **dream job as a developer** in 2024<br>🛠️ I'm an aerospace engineer working as a project manager, videomaker and motion designer freelance<br>🧠 I have a **growth mindset**, thus I strongly believe that we can develop our skills and talents through hard work and patience<br>🍕 In my free time I read, run and make an insane amount of pizza<br>🌍 Based in **Italy** but willing to move to other European countries
+📚 I'm currently learning testing w/ Cypress <br> 🧠 I have a **growth mindset**, thus I strongly believe that we can develop our skills and talents through hard work and patience<br>🍕 In my free time I read, run and make an insane amount of pizza<br>🌍 Based in **Italy** but willing to move to other European countries
 
 ###
 
