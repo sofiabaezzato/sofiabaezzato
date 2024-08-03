@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">Frontend enthusiast aspiring to evolve into a Full Stack Developer ✨</h3>
+<h3 align="left">I'm a software developer, working primarily with Java and exploring JavaScript/TypeScript in my free time ✨</h3>
 
 ###
 
-<p align="left">📚 I'm currently learning testing w/ Cypress<br>🧠 I have a growth mindset, thus I strongly believe that we can develop our skills and talents through hard work and patience<br>🍕 In my free time I read, run and make an insane amount of pizza<br>🌍 Based in Italy but willing to move to other European countries</p>
+<p align="left">📚 I'm currently learning Java, Spring and Spring Boot<br>🧠 I have a growth mindset, thus I strongly believe that we can develop our skills and talents through hard work and patience<br>🍕 In my free time I read, run and make an insane amount of pizza<br>🌍 Based in Italy but willing to move to other European countries</p>
 
 ###
 
@@ -15,9 +15,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -29,9 +29,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
 </div>
 
 ###
