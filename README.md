@@ -6,7 +6,12 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Java, Spring and Spring Boot<br>🧠 I have a growth mindset, thus I strongly believe that we can develop our skills and talents through hard work and patience<br>🍕 In my free time I read, run and make an insane amount of pizza<br>🌍 Based in Italy but willing to move to other European countries</p>
+<p align="left">
+  📚 I'm currently working with Java, Spring Boot, JSPs and PostgreSQL<br>
+  💸 I'm building <a href="https://github.com/UnspentApp">Unspent</a>, a mobile app which helps people save money<br>
+  🧠 I have a growth mindset, thus I strongly believe that we can develop our skills and talents through hard work and patience<br>
+  🌍 Based in Italy but willing to move to other European countries
+</p>
 
 ###
 
